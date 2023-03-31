@@ -108,6 +108,7 @@ import java.util.regex.PatternSyntaxException;
  * @since   JDK1.0
  */
 
+//注释测试
 public final class String
     implements java.io.Serializable, Comparable<String>, CharSequence {
     /** The value is used for character storage. */
